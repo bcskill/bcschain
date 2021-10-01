@@ -26,7 +26,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gochain/gochain/v3/common"
+	"github.com/bcskill/bcschain/v3/common"
 	"github.com/stretchr/testify/require"
 )
 

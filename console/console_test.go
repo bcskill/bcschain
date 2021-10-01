@@ -26,12 +26,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gochain/gochain/v3/common"
-	"github.com/gochain/gochain/v3/console/prompt"
-	"github.com/gochain/gochain/v3/core"
-	"github.com/gochain/gochain/v3/eth"
-	"github.com/gochain/gochain/v3/internal/jsre"
-	"github.com/gochain/gochain/v3/node"
+	"github.com/bcskill/bcschain/v3/common"
+	"github.com/bcskill/bcschain/v3/console/prompt"
+	"github.com/bcskill/bcschain/v3/core"
+	"github.com/bcskill/bcschain/v3/eth"
+	"github.com/bcskill/bcschain/v3/internal/jsre"
+	"github.com/bcskill/bcschain/v3/node"
 )
 
 const (

@@ -25,16 +25,16 @@ import (
 	"os"
 	"reflect"
 
-	"github.com/gochain/gochain/v3/accounts"
-	"github.com/gochain/gochain/v3/accounts/keystore"
-	"github.com/gochain/gochain/v3/accounts/scwallet"
-	"github.com/gochain/gochain/v3/accounts/usbwallet"
-	"github.com/gochain/gochain/v3/common"
-	"github.com/gochain/gochain/v3/common/hexutil"
-	"github.com/gochain/gochain/v3/internal/ethapi"
-	"github.com/gochain/gochain/v3/log"
-	"github.com/gochain/gochain/v3/rlp"
-	"github.com/gochain/gochain/v3/signer/storage"
+	"github.com/bcskill/bcschain/v3/accounts"
+	"github.com/bcskill/bcschain/v3/accounts/keystore"
+	"github.com/bcskill/bcschain/v3/accounts/scwallet"
+	"github.com/bcskill/bcschain/v3/accounts/usbwallet"
+	"github.com/bcskill/bcschain/v3/common"
+	"github.com/bcskill/bcschain/v3/common/hexutil"
+	"github.com/bcskill/bcschain/v3/internal/ethapi"
+	"github.com/bcskill/bcschain/v3/log"
+	"github.com/bcskill/bcschain/v3/rlp"
+	"github.com/bcskill/bcschain/v3/signer/storage"
 )
 
 const (

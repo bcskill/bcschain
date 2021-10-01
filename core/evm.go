@@ -19,10 +19,10 @@ package core
 import (
 	"math/big"
 
-	"github.com/gochain/gochain/v3/common"
-	"github.com/gochain/gochain/v3/consensus"
-	"github.com/gochain/gochain/v3/core/types"
-	"github.com/gochain/gochain/v3/core/vm"
+	"github.com/bcskill/bcschain/v3/common"
+	"github.com/bcskill/bcschain/v3/consensus"
+	"github.com/bcskill/bcschain/v3/core/types"
+	"github.com/bcskill/bcschain/v3/core/vm"
 )
 
 // ChainContext supports retrieving headers and consensus parameters from the

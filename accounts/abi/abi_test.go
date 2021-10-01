@@ -26,9 +26,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gochain/gochain/v3/common"
-	"github.com/gochain/gochain/v3/common/math"
-	"github.com/gochain/gochain/v3/crypto"
+	"github.com/bcskill/bcschain/v3/common"
+	"github.com/bcskill/bcschain/v3/common/math"
+	"github.com/bcskill/bcschain/v3/crypto"
 )
 
 const jsondata = `

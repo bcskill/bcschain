@@ -21,12 +21,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gochain/gochain/v3/common"
-	"github.com/gochain/gochain/v3/core/rawdb"
-	"github.com/gochain/gochain/v3/crypto"
-	"github.com/gochain/gochain/v3/eth"
-	"github.com/gochain/gochain/v3/ethdb"
-	"github.com/gochain/gochain/v3/light"
+	"github.com/bcskill/bcschain/v3/common"
+	"github.com/bcskill/bcschain/v3/core/rawdb"
+	"github.com/bcskill/bcschain/v3/crypto"
+	"github.com/bcskill/bcschain/v3/eth"
+	"github.com/bcskill/bcschain/v3/ethdb"
+	"github.com/bcskill/bcschain/v3/light"
 )
 
 var testBankSecureTrieKey = secAddr(testBankAddress)

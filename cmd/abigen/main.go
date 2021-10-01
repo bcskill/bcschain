@@ -24,12 +24,12 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/gochain/gochain/v3/accounts/abi/bind"
-	"github.com/gochain/gochain/v3/cmd/utils"
-	"github.com/gochain/gochain/v3/common/compiler"
-	"github.com/gochain/gochain/v3/crypto"
-	"github.com/gochain/gochain/v3/internal/flags"
-	"github.com/gochain/gochain/v3/log"
+	"github.com/bcskill/bcschain/v3/accounts/abi/bind"
+	"github.com/bcskill/bcschain/v3/cmd/utils"
+	"github.com/bcskill/bcschain/v3/common/compiler"
+	"github.com/bcskill/bcschain/v3/crypto"
+	"github.com/bcskill/bcschain/v3/internal/flags"
+	"github.com/bcskill/bcschain/v3/log"
 	"github.com/urfave/cli"
 )
 

@@ -23,8 +23,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/gochain/gochain/v3/common"
-	"github.com/gochain/gochain/v3/crypto"
+	"github.com/bcskill/bcschain/v3/common"
+	"github.com/bcskill/bcschain/v3/crypto"
 )
 
 // The ABI holds information about a contract's context and available

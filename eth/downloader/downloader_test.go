@@ -25,14 +25,14 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gochain/gochain/v3/common"
-	"github.com/gochain/gochain/v3/consensus/clique"
-	"github.com/gochain/gochain/v3/core"
-	"github.com/gochain/gochain/v3/core/types"
-	"github.com/gochain/gochain/v3/crypto"
-	"github.com/gochain/gochain/v3/ethdb"
-	"github.com/gochain/gochain/v3/params"
-	"github.com/gochain/gochain/v3/trie"
+	"github.com/bcskill/bcschain/v3/common"
+	"github.com/bcskill/bcschain/v3/consensus/clique"
+	"github.com/bcskill/bcschain/v3/core"
+	"github.com/bcskill/bcschain/v3/core/types"
+	"github.com/bcskill/bcschain/v3/crypto"
+	"github.com/bcskill/bcschain/v3/ethdb"
+	"github.com/bcskill/bcschain/v3/params"
+	"github.com/bcskill/bcschain/v3/trie"
 )
 
 var (

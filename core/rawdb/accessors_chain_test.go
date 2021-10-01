@@ -20,16 +20,16 @@ import (
 	"bytes"
 	"encoding/hex"
 	"fmt"
-	"github.com/gochain/gochain/v3/params"
+	"github.com/bcskill/bcschain/v3/params"
 	"math/big"
 	"testing"
 
 	"golang.org/x/crypto/sha3"
 
-	"github.com/gochain/gochain/v3/common"
-	"github.com/gochain/gochain/v3/core/types"
-	"github.com/gochain/gochain/v3/ethdb"
-	"github.com/gochain/gochain/v3/rlp"
+	"github.com/bcskill/bcschain/v3/common"
+	"github.com/bcskill/bcschain/v3/core/types"
+	"github.com/bcskill/bcschain/v3/ethdb"
+	"github.com/bcskill/bcschain/v3/rlp"
 )
 
 // Tests block header storage and retrieval operations.

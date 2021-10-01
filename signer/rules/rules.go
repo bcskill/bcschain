@@ -23,11 +23,11 @@ import (
 	"strings"
 
 	"github.com/dop251/goja"
-	"github.com/gochain/gochain/v3/internal/ethapi"
-	"github.com/gochain/gochain/v3/log"
-	"github.com/gochain/gochain/v3/signer/core"
-	"github.com/gochain/gochain/v3/signer/rules/deps"
-	"github.com/gochain/gochain/v3/signer/storage"
+	"github.com/bcskill/bcschain/v3/internal/ethapi"
+	"github.com/bcskill/bcschain/v3/log"
+	"github.com/bcskill/bcschain/v3/signer/core"
+	"github.com/bcskill/bcschain/v3/signer/rules/deps"
+	"github.com/bcskill/bcschain/v3/signer/storage"
 )
 
 var (

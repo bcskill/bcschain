@@ -28,9 +28,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gochain/gochain/v3/crypto"
-	"github.com/gochain/gochain/v3/log"
-	"github.com/gochain/gochain/v3/rlp"
+	"github.com/bcskill/bcschain/v3/crypto"
+	"github.com/bcskill/bcschain/v3/log"
+	"github.com/bcskill/bcschain/v3/rlp"
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/errors"
 	"github.com/syndtr/goleveldb/leveldb/iterator"

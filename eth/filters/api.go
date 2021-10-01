@@ -25,11 +25,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gochain/gochain/v3"
-	"github.com/gochain/gochain/v3/common"
-	"github.com/gochain/gochain/v3/common/hexutil"
-	"github.com/gochain/gochain/v3/core/types"
-	"github.com/gochain/gochain/v3/rpc"
+	"github.com/bcskill/bcschain/v3"
+	"github.com/bcskill/bcschain/v3/common"
+	"github.com/bcskill/bcschain/v3/common/hexutil"
+	"github.com/bcskill/bcschain/v3/core/types"
+	"github.com/bcskill/bcschain/v3/rpc"
 )
 
 var (

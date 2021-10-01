@@ -17,13 +17,13 @@
 package core
 
 import (
-	"github.com/gochain/gochain/v3/consensus"
-	"github.com/gochain/gochain/v3/core/state"
-	"github.com/gochain/gochain/v3/core/types"
-	"github.com/gochain/gochain/v3/core/vm"
-	"github.com/gochain/gochain/v3/crypto"
-	"github.com/gochain/gochain/v3/log"
-	"github.com/gochain/gochain/v3/params"
+	"github.com/bcskill/bcschain/v3/consensus"
+	"github.com/bcskill/bcschain/v3/core/state"
+	"github.com/bcskill/bcschain/v3/core/types"
+	"github.com/bcskill/bcschain/v3/core/vm"
+	"github.com/bcskill/bcschain/v3/crypto"
+	"github.com/bcskill/bcschain/v3/log"
+	"github.com/bcskill/bcschain/v3/params"
 )
 
 // StateProcessor is a basic Processor, which takes care of transitioning

@@ -28,12 +28,12 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/gochain/gochain/v3/core"
-	"github.com/gochain/gochain/v3/core/types"
-	"github.com/gochain/gochain/v3/internal/debug"
-	"github.com/gochain/gochain/v3/log"
-	"github.com/gochain/gochain/v3/node"
-	"github.com/gochain/gochain/v3/rlp"
+	"github.com/bcskill/bcschain/v3/core"
+	"github.com/bcskill/bcschain/v3/core/types"
+	"github.com/bcskill/bcschain/v3/internal/debug"
+	"github.com/bcskill/bcschain/v3/log"
+	"github.com/bcskill/bcschain/v3/node"
+	"github.com/bcskill/bcschain/v3/rlp"
 )
 
 const (

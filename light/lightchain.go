@@ -26,15 +26,15 @@ import (
 
 	"github.com/hashicorp/golang-lru"
 
-	"github.com/gochain/gochain/v3/common"
-	"github.com/gochain/gochain/v3/consensus"
-	"github.com/gochain/gochain/v3/core"
-	"github.com/gochain/gochain/v3/core/rawdb"
-	"github.com/gochain/gochain/v3/core/state"
-	"github.com/gochain/gochain/v3/core/types"
-	"github.com/gochain/gochain/v3/log"
-	"github.com/gochain/gochain/v3/params"
-	"github.com/gochain/gochain/v3/rlp"
+	"github.com/bcskill/bcschain/v3/common"
+	"github.com/bcskill/bcschain/v3/consensus"
+	"github.com/bcskill/bcschain/v3/core"
+	"github.com/bcskill/bcschain/v3/core/rawdb"
+	"github.com/bcskill/bcschain/v3/core/state"
+	"github.com/bcskill/bcschain/v3/core/types"
+	"github.com/bcskill/bcschain/v3/log"
+	"github.com/bcskill/bcschain/v3/params"
+	"github.com/bcskill/bcschain/v3/rlp"
 )
 
 var (

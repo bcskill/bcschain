@@ -20,7 +20,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/gochain/gochain/v3/params"
+	"github.com/bcskill/bcschain/v3/params"
 	cli "gopkg.in/urfave/cli.v1"
 )
 

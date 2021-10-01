@@ -22,7 +22,7 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/gochain/gochain/v3/core/asm"
+	"github.com/bcskill/bcschain/v3/core/asm"
 	cli "github.com/urfave/cli"
 )
 

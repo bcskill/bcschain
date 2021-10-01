@@ -23,9 +23,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/gochain/gochain/v3/common"
-	"github.com/gochain/gochain/v3/core/types"
-	"github.com/gochain/gochain/v3/rlp"
+	"github.com/bcskill/bcschain/v3/common"
+	"github.com/bcskill/bcschain/v3/core/types"
+	"github.com/bcskill/bcschain/v3/rlp"
 )
 
 // A Nonce is a 64-bit hash which proves (combined with the mix-hash) that

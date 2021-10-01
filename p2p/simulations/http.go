@@ -29,11 +29,11 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/gochain/gochain/v3/event"
-	"github.com/gochain/gochain/v3/p2p"
-	"github.com/gochain/gochain/v3/p2p/discover"
-	"github.com/gochain/gochain/v3/p2p/simulations/adapters"
-	"github.com/gochain/gochain/v3/rpc"
+	"github.com/bcskill/bcschain/v3/event"
+	"github.com/bcskill/bcschain/v3/p2p"
+	"github.com/bcskill/bcschain/v3/p2p/discover"
+	"github.com/bcskill/bcschain/v3/p2p/simulations/adapters"
+	"github.com/bcskill/bcschain/v3/rpc"
 	"github.com/gorilla/websocket"
 	"github.com/julienschmidt/httprouter"
 )

@@ -17,9 +17,9 @@
 package runtime
 
 import (
-	"github.com/gochain/gochain/v3/common"
-	"github.com/gochain/gochain/v3/core"
-	"github.com/gochain/gochain/v3/core/vm"
+	"github.com/bcskill/bcschain/v3/common"
+	"github.com/bcskill/bcschain/v3/core"
+	"github.com/bcskill/bcschain/v3/core/vm"
 )
 
 func NewEnv(cfg *Config) *vm.EVM {

@@ -3,9 +3,9 @@ package clique
 import (
 	"math/big"
 
-	"github.com/gochain/gochain/v3/consensus"
-	"github.com/gochain/gochain/v3/core/state"
-	"github.com/gochain/gochain/v3/core/types"
+	"github.com/bcskill/bcschain/v3/consensus"
+	"github.com/bcskill/bcschain/v3/core/state"
+	"github.com/bcskill/bcschain/v3/core/types"
 )
 
 // Block reward in wei for successfully sealing a block.

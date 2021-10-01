@@ -28,7 +28,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/gochain/gochain/v3/log"
+	"github.com/bcskill/bcschain/v3/log"
 )
 
 var (

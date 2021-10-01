@@ -28,10 +28,10 @@ import (
 	mrand "math/rand"
 	"strconv"
 
-	"github.com/gochain/gochain/v3/common"
-	"github.com/gochain/gochain/v3/crypto"
-	"github.com/gochain/gochain/v3/crypto/ecies"
-	"github.com/gochain/gochain/v3/log"
+	"github.com/bcskill/bcschain/v3/common"
+	"github.com/bcskill/bcschain/v3/crypto"
+	"github.com/bcskill/bcschain/v3/crypto/ecies"
+	"github.com/bcskill/bcschain/v3/log"
 )
 
 // MessageParams specifies the exact way a message should be wrapped

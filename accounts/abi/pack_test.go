@@ -27,7 +27,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gochain/gochain/v3/common"
+	"github.com/bcskill/bcschain/v3/common"
 )
 
 // TestPack tests the general pack/unpack tests in packing_test.go

@@ -27,17 +27,17 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gochain/gochain/v3/common"
-	"github.com/gochain/gochain/v3/common/hexutil"
-	"github.com/gochain/gochain/v3/common/math"
-	"github.com/gochain/gochain/v3/core"
-	"github.com/gochain/gochain/v3/core/types"
-	"github.com/gochain/gochain/v3/core/vm"
-	"github.com/gochain/gochain/v3/crypto"
-	"github.com/gochain/gochain/v3/ethdb"
-	"github.com/gochain/gochain/v3/params"
-	"github.com/gochain/gochain/v3/rlp"
-	"github.com/gochain/gochain/v3/tests"
+	"github.com/bcskill/bcschain/v3/common"
+	"github.com/bcskill/bcschain/v3/common/hexutil"
+	"github.com/bcskill/bcschain/v3/common/math"
+	"github.com/bcskill/bcschain/v3/core"
+	"github.com/bcskill/bcschain/v3/core/types"
+	"github.com/bcskill/bcschain/v3/core/vm"
+	"github.com/bcskill/bcschain/v3/crypto"
+	"github.com/bcskill/bcschain/v3/ethdb"
+	"github.com/bcskill/bcschain/v3/params"
+	"github.com/bcskill/bcschain/v3/rlp"
+	"github.com/bcskill/bcschain/v3/tests"
 )
 
 // To generate a new callTracer test, copy paste the makeTest method below into

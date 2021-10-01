@@ -25,10 +25,10 @@ import (
 	"runtime"
 
 	"github.com/fjl/memsize/memsizeui"
-	"github.com/gochain/gochain/v3/log"
-	"github.com/gochain/gochain/v3/log/term"
-	"github.com/gochain/gochain/v3/metrics"
-	"github.com/gochain/gochain/v3/metrics/exp"
+	"github.com/bcskill/bcschain/v3/log"
+	"github.com/bcskill/bcschain/v3/log/term"
+	"github.com/bcskill/bcschain/v3/metrics"
+	"github.com/bcskill/bcschain/v3/metrics/exp"
 	"github.com/mattn/go-colorable"
 	"github.com/urfave/cli"
 )

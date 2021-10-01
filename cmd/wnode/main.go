@@ -35,17 +35,17 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gochain/gochain/v3/console/prompt"
+	"github.com/bcskill/bcschain/v3/console/prompt"
 
-	"github.com/gochain/gochain/v3/cmd/utils"
-	"github.com/gochain/gochain/v3/common"
-	"github.com/gochain/gochain/v3/crypto"
-	"github.com/gochain/gochain/v3/log"
-	"github.com/gochain/gochain/v3/p2p"
-	"github.com/gochain/gochain/v3/p2p/discover"
-	"github.com/gochain/gochain/v3/p2p/nat"
-	"github.com/gochain/gochain/v3/whisper/mailserver"
-	whisper "github.com/gochain/gochain/v3/whisper/whisperv6"
+	"github.com/bcskill/bcschain/v3/cmd/utils"
+	"github.com/bcskill/bcschain/v3/common"
+	"github.com/bcskill/bcschain/v3/crypto"
+	"github.com/bcskill/bcschain/v3/log"
+	"github.com/bcskill/bcschain/v3/p2p"
+	"github.com/bcskill/bcschain/v3/p2p/discover"
+	"github.com/bcskill/bcschain/v3/p2p/nat"
+	"github.com/bcskill/bcschain/v3/whisper/mailserver"
+	whisper "github.com/bcskill/bcschain/v3/whisper/whisperv6"
 	"golang.org/x/crypto/pbkdf2"
 )
 

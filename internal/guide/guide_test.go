@@ -30,8 +30,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gochain/gochain/v3/accounts/keystore"
-	"github.com/gochain/gochain/v3/core/types"
+	"github.com/bcskill/bcschain/v3/accounts/keystore"
+	"github.com/bcskill/bcschain/v3/core/types"
 )
 
 // Tests that the account management snippets work correctly.

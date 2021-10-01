@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/gochain/gochain/v3/log"
+	"github.com/bcskill/bcschain/v3/log"
 )
 
 // manageServers displays a list of servers the user can disconnect from, and an

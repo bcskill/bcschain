@@ -22,8 +22,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gochain/gochain/v3/accounts/abi"
-	"github.com/gochain/gochain/v3/common"
+	"github.com/bcskill/bcschain/v3/accounts/abi"
+	"github.com/bcskill/bcschain/v3/common"
 )
 
 // Tests that all the selectors contained in the 4byte database are valid.

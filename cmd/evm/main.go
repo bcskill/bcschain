@@ -22,7 +22,7 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/gochain/gochain/v3/cmd/utils"
+	"github.com/bcskill/bcschain/v3/cmd/utils"
 	"github.com/urfave/cli"
 )
 

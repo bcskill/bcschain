@@ -19,7 +19,7 @@ package tests
 import (
 	"testing"
 
-	"github.com/gochain/gochain/v3/core/vm"
+	"github.com/bcskill/bcschain/v3/core/vm"
 )
 
 func TestVM(t *testing.T) {

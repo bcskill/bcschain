@@ -25,12 +25,12 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gochain/gochain/v3/accounts/keystore"
-	"github.com/gochain/gochain/v3/common"
-	"github.com/gochain/gochain/v3/common/hexutil"
-	"github.com/gochain/gochain/v3/common/math"
-	"github.com/gochain/gochain/v3/crypto"
-	"github.com/gochain/gochain/v3/signer/core"
+	"github.com/bcskill/bcschain/v3/accounts/keystore"
+	"github.com/bcskill/bcschain/v3/common"
+	"github.com/bcskill/bcschain/v3/common/hexutil"
+	"github.com/bcskill/bcschain/v3/common/math"
+	"github.com/bcskill/bcschain/v3/crypto"
+	"github.com/bcskill/bcschain/v3/signer/core"
 )
 
 var typesStandard = core.Types{

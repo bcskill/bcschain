@@ -24,9 +24,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gochain/gochain/v3/common"
-	"github.com/gochain/gochain/v3/crypto"
-	whisper "github.com/gochain/gochain/v3/whisper/whisperv6"
+	"github.com/bcskill/bcschain/v3/common"
+	"github.com/bcskill/bcschain/v3/crypto"
+	whisper "github.com/bcskill/bcschain/v3/whisper/whisperv6"
 )
 
 const powRequirement = 0.00001

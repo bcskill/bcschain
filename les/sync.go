@@ -20,10 +20,10 @@ import (
 	"context"
 	"time"
 
-	"github.com/gochain/gochain/v3/core/rawdb"
-	"github.com/gochain/gochain/v3/eth/downloader"
-	"github.com/gochain/gochain/v3/light"
-	"github.com/gochain/gochain/v3/log"
+	"github.com/bcskill/bcschain/v3/core/rawdb"
+	"github.com/bcskill/bcschain/v3/eth/downloader"
+	"github.com/bcskill/bcschain/v3/light"
+	"github.com/bcskill/bcschain/v3/log"
 )
 
 const (

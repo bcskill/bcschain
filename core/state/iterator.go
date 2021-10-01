@@ -20,9 +20,9 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/gochain/gochain/v3/common"
-	"github.com/gochain/gochain/v3/rlp"
-	"github.com/gochain/gochain/v3/trie"
+	"github.com/bcskill/bcschain/v3/common"
+	"github.com/bcskill/bcschain/v3/rlp"
+	"github.com/bcskill/bcschain/v3/trie"
 )
 
 // NodeIterator is an iterator to traverse the entire state trie post-order,

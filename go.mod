@@ -1,4 +1,4 @@
-module github.com/gochain/gochain/v3
+module github.com/bcskill/bcschain/v3
 
 go 1.17
 

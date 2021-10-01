@@ -22,11 +22,11 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/gochain/gochain/v3/common"
-	"github.com/gochain/gochain/v3/common/prque"
-	"github.com/gochain/gochain/v3/consensus"
-	"github.com/gochain/gochain/v3/core/types"
-	"github.com/gochain/gochain/v3/log"
+	"github.com/bcskill/bcschain/v3/common"
+	"github.com/bcskill/bcschain/v3/common/prque"
+	"github.com/bcskill/bcschain/v3/consensus"
+	"github.com/bcskill/bcschain/v3/core/types"
+	"github.com/bcskill/bcschain/v3/log"
 )
 
 const (

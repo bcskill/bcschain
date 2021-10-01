@@ -5,7 +5,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/gochain/gochain/v3/rpc"
+	"github.com/bcskill/bcschain/v3/rpc"
 	"github.com/stretchr/testify/assert"
 )
 

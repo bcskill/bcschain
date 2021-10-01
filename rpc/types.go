@@ -23,8 +23,8 @@ import (
 	"math"
 	"strings"
 
-	"github.com/gochain/gochain/v3/common"
-	"github.com/gochain/gochain/v3/common/hexutil"
+	"github.com/bcskill/bcschain/v3/common"
+	"github.com/bcskill/bcschain/v3/common/hexutil"
 )
 
 // API describes the set of methods offered over the RPC interface

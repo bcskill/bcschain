@@ -28,7 +28,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gochain/gochain/v3/common"
+	"github.com/bcskill/bcschain/v3/common"
 )
 
 // In this test, nodes try to randomly resolve each other.

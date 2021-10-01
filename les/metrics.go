@@ -17,8 +17,8 @@
 package les
 
 import (
-	"github.com/gochain/gochain/v3/metrics"
-	"github.com/gochain/gochain/v3/p2p"
+	"github.com/bcskill/bcschain/v3/metrics"
+	"github.com/bcskill/bcschain/v3/p2p"
 )
 
 var (

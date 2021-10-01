@@ -30,7 +30,7 @@ var (
 
 const (
 	MainnetChainID = 60
-	TestnetChainID = 31337
+	TestnetChainID = 9527
 )
 
 var (
@@ -59,9 +59,9 @@ var (
 		EIP155Block:         big.NewInt(0),
 		EIP158Block:         big.NewInt(0),
 		ByzantiumBlock:      big.NewInt(0),
-		ConstantinopleBlock: big.NewInt(4081350),
+		ConstantinopleBlock: big.NewInt(0),
 		PetersburgBlock:     nil,
-		DarvazaBlock:        big.NewInt(16811000),
+		DarvazaBlock:        big.NewInt(0),
 		DarvazaDefaultGas:   new(big.Int).SetUint64(2000 * Shannon),
 
 		Clique: DefaultCliqueConfig(),

@@ -25,11 +25,11 @@ import (
 
 var (
 	MainnetGenesisHash = common.HexToHash("0x5b44a92a842a888b8b7cc1ff7eaac9800edf88a6a5f3d38850deb63d46acd880")
-	TestnetGenesisHash = common.HexToHash("0x84337e882fad5883e2ed6e587ab5bdf711b7107a39abe8e080784bb30c8f047e")
+	TestnetGenesisHash = common.HexToHash("0x2e89d56fd5406b5da9a42a2dfcbdbd64fefcbee1b61e586f29a0e36b3e61cfe0")
 )
 
 const (
-	MainnetChainID = 60
+	MainnetChainID = 9528
 	TestnetChainID = 9527
 )
 
@@ -43,9 +43,9 @@ var (
 		EIP155Block:         big.NewInt(0),
 		EIP158Block:         big.NewInt(0),
 		ByzantiumBlock:      big.NewInt(0),
-		ConstantinopleBlock: big.NewInt(5100000),
+		ConstantinopleBlock: big.NewInt(0),
 		PetersburgBlock:     nil,
-		DarvazaBlock:        big.NewInt(17900000),
+		DarvazaBlock:        big.NewInt(0),
 		DarvazaDefaultGas:   new(big.Int).SetUint64(2000 * Shannon),
 		Clique:              DefaultCliqueConfig(),
 	}
